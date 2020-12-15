@@ -12,7 +12,7 @@ def SchemeColors(colormap,n,colorrange=[0.3,0.8]):
         colors.append(color)
     return colors 
 ```
-- 1. TimeMachinePie and QueenDiomondPie
+- 1.TimeMachinePie and QueenDiomondPie
 ```
 TimeMachinePie(data,index_data=index_data,language='CHN',fontsize=55,radius=1,title="I am a Time Machine",legend_loc=[0,0.015],saving_path='C://Users/sherr/Sherry/qzj/newpic')
 QueenDiomondPie(data,index_data=index_data,language='CHN',fontsize=55,radius=1,legend_loc=[0,0.015],saving_path='C://Users/sherr/Sherry/qzj/newpic')
