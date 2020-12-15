@@ -32,5 +32,6 @@ NightingaleRose(data,value_col,index_col,cmaps=None,language='ENG',is_label_show
 ```
 This chart is based on matplotlib pie chart and adjust the diameter by each category's percentage.  
 
+Keep updating...
 Welcome to reach out if you have any questions.
  
