@@ -2,7 +2,7 @@
 Hi! Welcome to my github :wink:, This repository stores the DIY chart I designed using matplotlib.
 
 - This function helps to generate a set of gradient colors 
-```
+```python
 def SchemeColors(colormap,n,colorrange=[0.3,0.8]):
     randomlist=np.linspace(colorrange[0],colorrange[1],n)
     colors=[]
